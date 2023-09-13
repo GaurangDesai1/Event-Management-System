@@ -64,7 +64,32 @@
                             <p><!--content-->
                                 EMBRACE YOUR GAMING SKILLS BY PARTICIPATING IN OUR DIFFERENT GAMING EVENTS!
                             </p>
+
+                            <button id="generateQRButton">Generate QR Code</button>
+                            <button id="generateQRButton">Generate QR Code</button>
+                            <div id="qrcode"></div>
+                            <?php
+                            require 'vendor/autoload.php'; // Include the composer autoloader
                             
+                            use BaconQrCode\Renderer\Image\Png;
+                            use BaconQrCode\Writer;
+                            
+                            if ($_SERVER["REQUEST_METHOD"] === "POST") {
+                                $eventDetails = $_POST["eventDetails"];
+                            
+                                // Create a QR code writer
+                                $writer = new Writer(new Png());
+                            
+                                // Generate the QR code image
+                                $qrCode = $writer->writeString($eventDetails);
+                            
+                                // Output the QR code image
+                                header('Content-Type: image/png');
+                                echo $qrCode;
+                                exit;
+                            }
+                            ?>
+
                             <br><br>
                             <?php 
                             $id=2;
