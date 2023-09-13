@@ -1,22 +1,19 @@
 
-# College event
+# College Event Management System
 
-A brief description of what this project does and who it's for
+### Welcome to the College Event Management Site! This README will provide you with a comprehensive overview of the site's features, installation process, and usage guidelines.
 
+## Table of Contents
 
+1. Introduction
+2. Features
+3. Usage
 
-### College Event Management Site Readme
-Welcome to the College Event Management Site! This README will provide you with a comprehensive overview of the site's features, installation process, and usage guidelines.
-
-##Table of Contents
-Introduction
-Features
-Usage
-
-##Introduction
+## Introduction
 The College Event Management Site is a user-friendly web application designed to streamline the process of planning and managing events within your college community. Whether you're organizing a club meeting, a sports event, a seminar, or a cultural fest, this platform offers a centralized hub for event creation, registration, and communication.
 
-##Features
+## Features
+
 User Authentication: Secure user registration and login system to ensure data privacy and access control.
 
 Event Creation: Easily create new events with detailed descriptions, dates, times, and venues.
@@ -37,34 +34,39 @@ Feedback and Ratings: Allow users to provide feedback and ratings for events the
 
 Admin Panel: Empower administrators with tools to manage user accounts, review and moderate events, and ensure site security.
 
-##Usage
-#User Guide
-Registration:
+## Usage
 
-Sign up for an account using your college email.
-Verify your email address through the link sent to your inbox.
-Browsing Events:
+### Registration:
 
-Browse through the list of upcoming events.
-Use the search and filter options to find events of interest.
-Event Registration:
+1. Sign up for an account using your college email.
+2. Verify your email address through the link sent to your inbox.
 
-Click on an event to view details.
-Click the "Register" button to participate in an event.
-User Dashboard:
+### Browsing Events:
+
+1. Browse through the list of upcoming events.
+2. Use the search and filter options to find events of interest.
+
+### Event Registration:
+
+1. Click on an event to view details.
+2. Click the "Register" button to participate in an event.
+
+### User Dashboard:
 
 Access your personalized dashboard to view registered events and notifications.
-Organizer Guide
-Login as an Organizer:
 
-Use your registered account to log in.
-Organizer privileges allow you to create, edit, and manage events.
-Creating an Event:
+### Login as an Organizer:
 
-Navigate to your dashboard as an organizer.
-Click "Create Event" and fill in event details.
-Publish your event for participants to see.
-Managing Events:
+1. Use your registered account to log in.
+2. Organizer privileges allow you to create, edit, and manage events.
 
-View and edit your events from the organizer dashboard.
-Cancel or reschedule events as needed.
+### Creating an Event:
+
+1. Navigate to your dashboard as an organizer.
+2. Click "Create Event" and fill in event details.
+3. Publish your event for participants to see.
+
+### Managing Events:
+
+1. View and edit your events from the organizer dashboard.
+2. Cancel or reschedule events as needed.
