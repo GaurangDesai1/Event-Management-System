@@ -1,17 +1,15 @@
-***College Event Management Site Readme***
+###College Event Management Site Readme
 Welcome to the College Event Management Site! This README will provide you with a comprehensive overview of the site's features, installation process, and usage guidelines.
 
-Table of Contents
+##Table of Contents
 Introduction
 Features
-Getting Started
 Usage
-Contributing
-License
-Introduction
+
+##Introduction
 The College Event Management Site is a user-friendly web application designed to streamline the process of planning and managing events within your college community. Whether you're organizing a club meeting, a sports event, a seminar, or a cultural fest, this platform offers a centralized hub for event creation, registration, and communication.
 
-Features
+##Features
 User Authentication: Secure user registration and login system to ensure data privacy and access control.
 
 Event Creation: Easily create new events with detailed descriptions, dates, times, and venues.
@@ -32,8 +30,8 @@ Feedback and Ratings: Allow users to provide feedback and ratings for events the
 
 Admin Panel: Empower administrators with tools to manage user accounts, review and moderate events, and ensure site security.
 
-***Usage***
-**User Guide**
+##Usage
+#User Guide
 Registration:
 
 Sign up for an account using your college email.
